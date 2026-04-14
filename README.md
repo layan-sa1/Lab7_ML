@@ -1,7 +1,7 @@
 # Lab7_ML
 This notebook applies Logistic Regression on the advertising dataset to predict whether a user clicked on an ad or not.
 
-## Steps Included
+### Steps Included
 
 1. Importing the required libraries
 2. Loading the dataset
