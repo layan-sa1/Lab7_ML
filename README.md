@@ -12,6 +12,6 @@ This notebook applies Logistic Regression on the advertising dataset to predict 
 7. Training the Logistic Regression model
 8. Evaluating the model performance
 
-Result
+### Result
 
 The model performed well in predicting ad clicks with 93% accuracy
